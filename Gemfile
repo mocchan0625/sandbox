@@ -51,4 +51,6 @@ group :test, :development do
   gem 'bullet'
   gem 'pry-byebug'
   gem 'rack-mini-profiler'
+  gem 'pg'
+  gem 'rails_12factor'
 end
